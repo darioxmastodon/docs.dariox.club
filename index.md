@@ -2,3 +2,4 @@ Welcome to dariox.club Documentation! Here you will find all sorts of (somewhat)
 
 - [Staff](Staff.md)
 - [Infrastructure](Infrastructure.md)
+- [Status/Uptime Page](https://uptime.statuscake.com/?TestID=Z44X7GQI8M)
