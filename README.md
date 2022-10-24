@@ -2,3 +2,8 @@ Welcome to dariox.club Documentation! Here you will find all sorts of (somewhat)
 
 - [Staff](#staff)
 - [Infrastructure](Infrastructure.md)
+
+## Staff
+| Name | Pronouns | Email | Role |
+| ---- | -------- | ----- | ---- |
+| Kate | [she/her](https://pronouns.is/she/her) | [kate@dariox.club](mailto:kate@dariox.club) | Owner, Server Administrator |
