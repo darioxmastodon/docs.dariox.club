@@ -9,7 +9,7 @@ In a perfect would we would be self-hosting everything but currently with my per
 | AWS SES        | Automated Emails (Account Verification, Password Reset, etc...) |
 | Cloudflare     | DDoS Protection and DNS                                         |
 | Namesilo       | Domain Registrar                                                |
-| Hydra          | Database (PostgreSQL), [Relay](https://relay.dariox.club), Redis, [Uptime](https://uptime.kate.pet/status/dariox), and Mastodon |
+| Hydra          | Database (PostgreSQL), [Relay](https://relay.dariox.club), Redis, [Uptime](https://uptime.kate.pet/status/dariox), and [Mastodon](https://dariox.club) |
 
 ## Server Specifications (Hydra)
 - Intel i7-6700 @4GHz
