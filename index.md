@@ -15,4 +15,4 @@ Our sister instance, [xenia.social](https://xenia.social), is hosted on the same
 ## Our Services
 - [Relay](https://relay.dariox.club) 
 - [FediFinder](https://finder.dariox.club) `Find ActivityPub users from your twitter following/followers`
-- [Uptime](https://uptime.kate.pet/status/dariox) `Uptime page, self-hosted in the same box`
+- [Uptime](https://uptime.dxcdn.net/status/dariox) `Uptime page, hosted in Sydney by Vultr`
