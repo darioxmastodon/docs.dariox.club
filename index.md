@@ -4,9 +4,9 @@ Our sister instance, [xenia.social](https://xenia.social), is hosted on the same
 
 ## Pages
 - ***[Staff](Staff.md)*** `List of staff that help run and moderate the instance`
-- ***[Donate](https://liberapay.com/ktwrd/)*** `Hosting an instance isn't free, and the power bill definitely isn't`
+- ***[Donate](https://liberapay.com/ktwrd/)***
 - [Status Page](https://status.dariox.club)
-- [Grafana Dashboard](https://hydra.kate.pet/grafana/d/zA4m-6cVk/mastodon)
+- [Grafana Dashboard](https://grafana.redfur.cloud/d/zA4m-6cVk/mastodon)
 
 ## Documents
 - [Migrating from Twitter](Migrating.md)
@@ -14,5 +14,4 @@ Our sister instance, [xenia.social](https://xenia.social), is hosted on the same
 
 ## Our Services
 - [Relay](https://relay.dariox.club) 
-- [FediFinder](https://finder.dariox.club) `Find ActivityPub users from your twitter following/followers`
-- [Uptime](https://uptime.dxcdn.net/status/dariox) `Uptime page, hosted in Sydney by Vultr`
+- [Uptime](https://uptime.dxcdn.net/status/dariox)
