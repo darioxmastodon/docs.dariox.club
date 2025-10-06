@@ -1,7 +1,5 @@
 Welcome to dariox.club Documentation! Here you will find all sorts of documentation like what our infrastructure consists of and what services we host.
 
-Our sister instance, [xenia.social](https://xenia.social), is hosted on the same hardware but is only moderated by [@kate@xenia.social](https://xenia.social/users/kate).
-
 ## Pages
 - ***[Staff](Staff.md)*** `List of staff that help run and moderate the instance`
 - ***[Donate](https://liberapay.com/ktwrd/)***
